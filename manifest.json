@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "moha.prayer",
+  "name": "Prayer times",
+  "version": "1.0.0",
+  "author": "moha",
+  "license": "MIT",
+  "description": "Next prayer and countdown in the bar, with a themed popup of the day's prayer times.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Prayer times",
+    "description": "Next prayer and countdown, with a popup of today's prayer times (Super+Ctrl+P).",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "centerEnd"
+  }
+}
