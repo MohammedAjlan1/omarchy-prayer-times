@@ -17,6 +17,6 @@
     "description": "Next prayer and countdown, with a popup of today's prayer times (Super+Ctrl+P).",
     "category": "Time",
     "allowMultiple": false,
-    "defaultSection": "centerEnd"
+    "defaultSection": "center"
   }
 }
